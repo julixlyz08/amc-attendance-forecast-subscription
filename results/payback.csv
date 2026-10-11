@@ -1,0 +1,31 @@
+method,scenario,member_type,value_per_year,payback_months,five_year_value_per_member
+A,stress low,light,287.4,2.0,389.5
+A,stress low,typical,178.8,3.0,340.3
+A,stress low,heavy,-2.3,,-6.7
+A,low,light,273.6,2.0,370.7
+A,low,typical,144.1,4.0,274.3
+A,low,heavy,-71.7,,-209.8
+A,base,light,262.8,2.0,356.1
+A,base,typical,117.2,5.0,223.2
+A,base,heavy,-125.4,,-367.0
+A,high,light,237.1,3.0,321.3
+A,high,typical,53.0,12.0,100.8
+A,high,heavy,-253.9,,-743.2
+A,stress high,light,229.9,3.0,311.5
+A,stress high,typical,34.8,20.0,66.3
+A,stress high,heavy,-290.2,,-849.4
+B,stress low,light,155.1,4.0,210.2
+B,stress low,typical,139.5,4.0,265.5
+B,stress low,heavy,113.4,5.0,331.9
+B,low,light,153.1,4.0,207.5
+B,low,typical,134.5,4.0,256.0
+B,low,heavy,103.4,5.0,302.6
+B,base,light,151.6,4.0,205.4
+B,base,typical,130.6,4.0,248.6
+B,base,heavy,95.7,6.0,280.0
+B,high,light,147.9,4.0,200.4
+B,high,typical,121.3,5.0,231.0
+B,high,heavy,77.2,7.0,225.8
+B,stress high,light,146.8,4.0,198.9
+B,stress high,typical,118.7,5.0,226.0
+B,stress high,heavy,71.9,8.0,210.5

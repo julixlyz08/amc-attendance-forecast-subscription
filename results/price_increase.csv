@@ -1,0 +1,11 @@
+method,scenario,members_AMC_can_lose_pct_if_everyone_equally,members_AMC_can_lose_pct_if_only_light_members_leave
+A,stress low,13.7,8.3
+A,low,17.2,8.8
+A,base,21.4,9.1
+A,high,51.2,10.1
+A,stress high,84.7,10.4
+B,stress low,7.9,7.1
+B,low,8.2,7.2
+B,base,8.5,7.3
+B,high,9.2,7.5
+B,stress high,9.4,7.5

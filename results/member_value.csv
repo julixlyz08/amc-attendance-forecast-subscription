@@ -1,0 +1,51 @@
+method,scenario,member_type,value_per_year
+A,stress low,light,287.4
+A,stress low,typical,178.8
+A,stress low,heavy,-2.3
+A,stress low,average member,175.2
+A,stress low,whole program ($M),192.7
+A,low,light,273.6
+A,low,typical,144.1
+A,low,heavy,-71.7
+A,low,average member,139.8
+A,low,whole program ($M),153.8
+A,base,light,262.8
+A,base,typical,117.2
+A,base,heavy,-125.4
+A,base,average member,112.4
+A,base,whole program ($M),123.6
+A,high,light,237.1
+A,high,typical,53.0
+A,high,heavy,-253.9
+A,high,average member,46.8
+A,high,whole program ($M),51.5
+A,stress high,light,229.9
+A,stress high,typical,34.8
+A,stress high,heavy,-290.2
+A,stress high,average member,28.3
+A,stress high,whole program ($M),31.2
+B,stress low,light,155.1
+B,stress low,typical,139.5
+B,stress low,heavy,113.4
+B,stress low,average member,138.9
+B,stress low,whole program ($M),152.8
+B,low,light,153.1
+B,low,typical,134.5
+B,low,heavy,103.4
+B,low,average member,133.8
+B,low,whole program ($M),147.2
+B,base,light,151.6
+B,base,typical,130.6
+B,base,heavy,95.7
+B,base,average member,129.9
+B,base,whole program ($M),142.9
+B,high,light,147.9
+B,high,typical,121.3
+B,high,heavy,77.2
+B,high,average member,120.5
+B,high,whole program ($M),132.5
+B,stress high,light,146.8
+B,stress high,typical,118.7
+B,stress high,heavy,71.9
+B,stress high,average member,117.8
+B,stress high,whole program ($M),129.6

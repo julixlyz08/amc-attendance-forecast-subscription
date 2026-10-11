@@ -1,0 +1,6 @@
+candidate,avg_miss_pct,avg_miss_millions,worst_miss_pct,avg_bias_millions,quarters_closer_than_B,tests
+A smoothing,12.8,5.2,30.9,-1.6,10,14
+B same quarter last year,15.1,6.2,37.1,-1.7,0,14
+C blend of A and B,13.9,5.7,34.0,-1.6,10,14
+D1 regression + big-budget films,21.0,8.1,45.6,-0.5,5,14
+"D2 same, per-screen",16.0,6.4,32.7,-2.9,5,14

@@ -1,0 +1,23 @@
+key,description,low,base,high,unit,basis
+price_now,Current A-List monthly price,,29.99,,$ per month,AMC announced $29.99 from July 2026 (top tier; prices vary by state)
+price_before,A-List price before the July 2026 increase,,27.99,,$ per month,Reported 2025 top tier before the $2 increase
+members,A-List members,,1100000,,members,AMC earnings coverage (over 1.1 million members)
+ticket,Average U.S. ticket price,,12.70,,$,AMC U.S. Q2 2026: admissions revenue / attendance
+snack_avg,Average snack spend per guest (non-member visits),,8.95,,$,AMC U.S. Q2 2026: food and beverage revenue / attendance
+snack_member,Snack spend per member visit,6.70,8.05,8.95,$,75% / 90% / 100% of the average (free upgrades may lower it)
+film_share,Studios' share of ticket value (film rental),0.50,0.54,0.58,share,AMC U.S. Q2 2026: film exhibition costs / admissions = 54.3%
+snack_cost,Snack cost as share of snack revenue,0.15,0.17,0.19,share,AMC U.S. Q2 2026: food and beverage costs / revenue = 17.0%
+perks,Cost of perks per member visit,0.60,1.20,2.00,$,Estimate: free upgrades plus about 10% back on snacks
+extra,Share of member visits that would not happen without the membership,0.25,0.50,0.75,share,No public data; same for all member types
+cac,Cost of winning a new member,15,40,90,$,No public figure
+member_share,Members' share of U.S. attendance,0.15,0.20,0.25,share,AMC reports about 20%
+price_response,Members lost per 10% price rise (what-if only),0.02,0.05,0.10,share,No public data
+share_light,Share of members: light,,0.30,,share,Assumed member mix
+share_typical,Share of members: typical,,0.50,,share,Assumed member mix
+share_heavy,Share of members: heavy,,0.20,,share,Assumed member mix
+visits_light,Visits per year: light member,,12,,visits,Mix averages about 31 visits; AMC figures imply roughly 30
+visits_typical,Visits per year: typical member,,30,,visits,
+visits_heavy,Visits per year: heavy member,,60,,visits,
+churn_light,Monthly cancellation: light members,0.03,0.06,0.09,share per month,No public data (low and high are half and 1.5 times the base)
+churn_typical,Monthly cancellation: typical members,0.02,0.04,0.06,share per month,No public data
+churn_heavy,Monthly cancellation: heavy members,0.01,0.02,0.03,share per month,No public data

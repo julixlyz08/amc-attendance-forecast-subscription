@@ -1,0 +1,31 @@
+method,scenario,price_response,best_price,program_contribution_M,contribution_at_current_price_M
+A,stress low,low,60.0,470.9,192.7
+A,stress low,base,53.0,306.0,192.7
+A,stress low,high,38.0,218.7,192.7
+A,low,low,60.0,439.8,153.8
+A,low,base,54.0,282.3,153.8
+A,low,high,39.0,190.8,153.8
+A,base,low,60.0,415.7,123.6
+A,base,base,55.0,264.6,123.6
+A,base,high,40.0,170.4,123.6
+A,high,low,60.0,358.0,51.5
+A,high,base,58.0,224.5,51.5
+A,high,high,43.0,126.4,51.5
+A,stress high,low,60.0,341.7,31.2
+A,stress high,base,59.0,213.8,31.2
+A,stress high,high,44.0,115.2,31.2
+B,stress low,low,60.0,268.0,152.8
+B,stress low,base,47.0,183.5,152.8
+B,stress low,high,32.0,154.0,152.8
+B,low,low,60.0,263.5,147.2
+B,low,base,48.0,179.5,147.2
+B,low,high,33.0,148.9,147.2
+B,base,low,60.0,260.0,142.9
+B,base,base,48.0,176.5,142.9
+B,base,high,33.0,145.0,142.9
+B,high,low,60.0,251.7,132.5
+B,high,base,49.0,169.4,132.5
+B,high,high,34.0,135.9,132.5
+B,stress high,low,60.0,249.4,129.6
+B,stress high,base,49.0,167.4,129.6
+B,stress high,high,34.0,133.3,129.6
