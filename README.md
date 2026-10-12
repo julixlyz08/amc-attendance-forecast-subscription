@@ -9,7 +9,7 @@ An end-to-end analysis in Python: a quarterly dataset built from AMC's SEC filin
 ## Summary of findings
 
 **Forecasting**
-1. A simple blend (the average of a seasonal smoothing model and "same quarter last year") was the steadiest forecast: **17.1% average miss across all 18 tests** and 13.8% from 2023 onward, four quarters ahead.
+1. A simple blend (the average of a seasonal smoothing model and "same quarter last year") was the steadiest forecast: **17.1% average miss across all 18 tests** and 13.9% from 2023 onward, four quarters ahead.
 2. **No model clearly beat the simple baselines.** From 2023, seasonal smoothing was best (12.8%), but the gaps between the top three were small for 14 tests.
 3. **The release calendar did not help.** Adding counts of big-budget and franchise films (from the TMDB data of my [movie profitability project](https://github.com/julixlyz08/movie_profitability_analysis)) made forecasts slightly worse once post-pandemic data was available.
 4. The forecast for **2026 Q3 to 2027 Q2 is 169.9 million U.S. guests**, with an 8-in-10 range of **151 to 215 million** and a stress range of **127 to 228 million**.
@@ -62,7 +62,7 @@ Data notes:
 |---|---|---|
 | Same quarter last year | 22.0% | 15.1% |
 | Seasonal smoothing | 30.7% | 12.8% |
-| **Blend (chosen)** | **17.1%** | 13.8% |
+| **Blend (chosen)** | **17.1%** | 13.9% |
 | Regression + post-pandemic marker\* | 36.4% | 17.9% |
 | Regression + big-budget films | 33.7% | 21.0% |
 | Original regression | 48.8% | 33.8% |
@@ -114,7 +114,7 @@ All assumptions, with low, base, and high values and their basis, are in `assump
 
 ## Related project
 
-The release-calendar data comes from my [movie profitability analysis](https://github.com/YOUR-USERNAME/YOUR-MOVIE-REPOSITORY), which collects and cleans TMDB data and publishes an interactive Tableau dashboard. This repository holds a copy of that dataset (with 2026 releases added), so it can be reproduced on its own.
+The release-calendar data comes from my [movie profitability analysis](https://github.com/julixlyz08/movie_profitability_analysis), which collects and cleans TMDB data and publishes an interactive Tableau dashboard. This repository holds a copy of that dataset (with 2026 releases added), so it can be reproduced on its own.
 
 ## Limitations
 
